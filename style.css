@@ -1,15 +1,15 @@
 .marquee-container {
     overflow: hidden;
     white-space: nowrap;
-    background-color: #34495e;
+    background-color: #2c3e50;
     padding: 10px;
 }
 
 .marquee-text {
     display: inline-block;
-    animation: marquee 8s linear infinite;
-    color: #f1c40f;
-    font-size: 20px;
+    animation: marquee 10s linear infinite;
+    color: #ecf0f1;
+    font-size: 24px;
     font-weight: bold;
 }
 
